@@ -1,0 +1,69 @@
+{
+  "metadata": {
+    "title": "Beit Hob",
+    "description": "Empowering youth through cultural, social, artistic, and sports activities."
+  },
+  "brand": {
+    "name": "Beit Hob",
+    "tagline": "Empowering individuals through culture and professional growth"
+  },
+  "navigation": {
+    "home": "Home",
+    "about": "About Us",    
+    "activities": "Our Activities",
+    "contact": "Contact Us"
+  },
+  "language": {
+    "switch": "العربية",
+    "label": "Switch language"
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Cultural · Social · Artistic · Sports",
+      "title": "Creating more of who you can become",
+      "description": "Beit Hob creates spaces for learning, exploration, and connection — so young people in Lebanon can discover, develop, and pursue more of what they are capable of becoming.",
+      "primaryCta": "Discover Our Work",
+      "secondaryCta": "Get in Touch",
+      "imageAlt": "Young people at a Beit Hob workshop"
+    },
+    "intro": {
+      "heading": "Life is not a fixed structure",
+      "body1": "We start out trying to find a place for ourselves, only to discover that life is not so much about finding yourself as it is about creating yourself. We are multidimensional beings, full of potential, living within a stream of possibilities.",
+      "body2": "Yet the possibilities we can imagine are often limited by what we have already seen, known, or experienced. There are talents we have not had the chance to discover, fields we have never encountered, and directions we have never considered.",
+      "body3": "Beit Hob exists to create more of those chances."
+    },
+    "programs": {
+      "heading": "What We Do",
+      "subheading": "Three pillars, one mission: creating chances for people to grow.",
+      "art": {
+        "title": "Art & Culture",
+        "description": "Workshops, performances, and cultural experiences that spark expression and creativity."
+      },
+      "professional": {
+        "title": "Professional Development",
+        "description": "Skills, mentorship, and practical tools to help young people build their future."
+      },
+      "sports": {
+        "title": "Sports & Community",
+        "description": "Sports, teamwork, and community initiatives that build resilience and belonging."
+      }
+    },
+    "quote": {
+      "text": "Of all the things we can develop in this life, perhaps the greatest is ourselves.",
+      "attribution": "Beit Hob"
+    },
+    "closing": {
+      "title": "Be part of what comes next",
+      "description": "Whether you want to learn, contribute, or collaborate — there is a place for you at Beit Hob.",
+      "cta": "Contact Us"
+    }
+  },
+  "footer": {
+    "tagline": "Beit Hob is a non-profit creating spaces for learning, exploration, and connection — from art and culture to sports and professional growth.",
+    "quickLinks": "Quick Links",
+    "contact": "Get in Touch",
+    "location": "Lebanon",
+    "rights": "All rights reserved.",
+    "org": "Beit Hob NGO"
+  }   
+}
